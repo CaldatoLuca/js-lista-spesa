@@ -1,0 +1,40 @@
+/* 
+?--------
+!COMMON
+?--------
+*/
+body {
+  background-color: rgb(210, 224, 251);
+}
+.-lc-list-container {
+  background-color: rgb(249, 243, 204);
+  width: 300px;
+}
+
+.-lc-list {
+  font-family: "Edu TAS Beginner", cursive;
+  border-radius: 0;
+}
+
+.-lc-list-item {
+  border: none;
+  border-bottom: 1px solid rgb(142, 172, 205);
+  padding: 1.25rem 0 0.4375rem 0;
+  background-color: transparent;
+}
+
+.-lc-list-container h1 {
+  font-family: "Lobster", sans-serif;
+  font-size: 40px;
+}
+
+/* 
+?--------
+!RESPONSIVE
+?--------
+*/
+@media screen and (min-width: 576px) {
+  .-lc-list-container {
+    width: 400px;
+  }
+}
