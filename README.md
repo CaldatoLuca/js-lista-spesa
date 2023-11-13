@@ -2,6 +2,8 @@
 
 _HTML+js_
 
+![thumbnail](/readme-img/img-1.jpeg)
+
 Creazione di una lista della spesa usando il ciclo `while`, visto oggi a lezione.
 
 ## Indice
